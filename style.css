@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+  }
+  
+  .container{
+    display : flex;
+    flex-direction:column;
+    justify-content :center;
+    align-items:center;
+    margin-top:30px;
+    border:1px solid black
+  }
+  
+  .quotes{
+    font-size:30px;
+    font-style:italic;
+  }
+  
+  .teller{
+    margin-top:10px;
+    font-weight:bolder;
+  }
